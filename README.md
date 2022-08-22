@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marc Usher
 ==================================================================================================================================
 
-Full-Stack Software Engineer
+Junior Full-Stack Software Engineer
 ----------------------------
 
 My passion for digital innovation led me to work as a Digital Marketer at internationally-renowned institutions for over eight years, where I successfully led and delivered large-scale projects. Most notably, I’m proud to have project managed a complete institutional website redesign and relaunch, which deepened my interest in software engineering and led me to study full time with General Assembly. I bring a positive impact to internal teams and practices with my collaboration skills and attention to detail, while my strong stakeholder and project management skills enable successful external client relationships. I’m excited to bring my experience to a new career as a Software Engineer, working in a collaborative team and learning from others to create innovative and well-designed applications.
