@@ -11,7 +11,8 @@ I bring a positive impact to internal teams and practices with my collaboration 
 I’m excited to bring my experience to a new career as a Software Engineer, working in a collaborative team and learning from others to create innovative and well-designed applications.
 
 * 🌍  I'm based in London, UK
-* 🖥️  See my portfolio at [MyPortfolio](http://marcusher.github.io)
+* 🖥️  See my [portfolio](http://marcusher.github.io)
+* ⚙️ Find out more about the [projects I built with General Assembly](https://github.com/stars/MarcUsher/lists/general-assembly-sei-immersive)
 * ✉️  You can contact me at [usher.marcp@gmail.com](mailto:usher.marcp@gmail.com)
 
 ### Skills
