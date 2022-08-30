@@ -12,7 +12,7 @@ I’m excited to bring my experience to a new career as a Software Engineer, wor
 
 * 🌍  I'm based in London, UK
 * 🖥️  See my [portfolio](http://marcusher.github.io)
-* ⚙️ Find out more about the [projects I built with General Assembly](https://github.com/stars/MarcUsher/lists/general-assembly-sei-immersive)
+* ⚙️  Find out more about the [projects I built with General Assembly](https://github.com/stars/MarcUsher/lists/general-assembly-sei-immersive)
 * ✉️  You can contact me at [usher.marcp@gmail.com](mailto:usher.marcp@gmail.com)
 
 ### Skills
