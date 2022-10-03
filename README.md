@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-Multilingual Software Engineer with over 8 years experience in Digital Marketing at internationally-renowned HE institutions. I successfully directed and delivered large-scale projects, including project managing a complete institutional website redesign and relaunch which led me to study Software Engineering full time with General Assembly.
+I’m a Full-Stack Software Engineer, recently retrained full-time with General Assembly where I led and worked in small teams to collaboratively build full-stack applications from the ground up. I interpreted project requirements from the original brief, planned out data structures and application architecture, and created and deployed full-stack applications in the MERN stack and in Django with a PostgreSQL database.
 
-I’ve led and worked in small teams to collaboratively build full-stack applications from the ground up, interpreting project requirements and creating and deploying full-stack applications in the MERN stack and in Django with a PostgreSQL database.
+As a multilingual professional I've over 8 years experience in Digital Marketing at internationally-renowned HE institutions. I successfully directed and delivered large-scale projects, including project managing a complete institutional website redesign and relaunch, working closely with IT and our agency’s designers, developers and project team. I managed and grew the institution’s email databases for events and recruitment, and was the product owner for our website and new intranet platform.
 
 I bring a positive impact to internal teams and practices with my collaboration skills and attention to detail, while my strong stakeholder and project management skills enable successful internal and external relationships.
 
